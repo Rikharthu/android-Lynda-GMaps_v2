@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Maps</string>
+    <string name="location_label">Location</string>
+    <string name="terrain">Terrain</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="none">None</string>
+    <string name="currentLocation">Current Location</string>
+</resources>
