@@ -7,4 +7,5 @@
     <string name="hybrid">Hybrid</string>
     <string name="none">None</string>
     <string name="currentLocation">Current Location</string>
+    <string name="map_info">some map</string>
 </resources>
